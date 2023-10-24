@@ -1,1 +1,1 @@
-# story-bet
+RyanTrattner NextJS Starter Template
